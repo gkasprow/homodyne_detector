@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Homodyne_detector
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -107,6 +107,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=Project Outputs for Homodyne_detector
 
 [OutputGroup1]
 Name=Netlist Outputs
